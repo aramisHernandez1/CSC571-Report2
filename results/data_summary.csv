@@ -1,0 +1,8 @@
+,value
+rows_raw,6417106
+rows_dropped_null_or_placeholder,1032178
+sample_size,200000
+rows_after_cleaning,193742
+positive_reviews,159253
+negative_reviews,34489
+median_review_chars,151

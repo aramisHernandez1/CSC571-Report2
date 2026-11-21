@@ -1,0 +1,5 @@
+setting,neg_precision,neg_recall,neg_f1
+LR unweighted,0.81,0.557,0.66
+LR balanced,0.583,0.848,0.691
+RF leaf=2,0.71,0.503,0.589
+RF leaf=5,0.628,0.683,0.654
